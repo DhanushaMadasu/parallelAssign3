@@ -9,3 +9,6 @@ Problem: 5.2. Mandelbrot set
 Issues: No Issues
 
 OS: Windows
+
+Sourse Link: https://people.sc.fsu.edu/~jburkardt/c_src/mandelbrot_openmp/mandelbrot_openmp.c
+
